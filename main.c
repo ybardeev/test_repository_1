@@ -115,6 +115,11 @@ void freelast (intlist *list)
 
 
 
+/* different comments have been written */
+
+
+
+
 int main()
 {
     printf("Hello world!\n");
